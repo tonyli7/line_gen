@@ -3,7 +3,7 @@ run:
 	python display.py
 
 clean:
-	rm *~
-	rm *.ppm
-	rm *#
-	rm *.pyc
+	rm *~;rm *.ppm;rm *#;rm *.pyc
+
+
+
